@@ -5,7 +5,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Keira | Crystal Springs Uplands School | [Vocal synthesizers](https://www.youtube.com/@ochi-_) | 10th
+| Keira | Crystal Springs Uplands School | Vocal synthesizers | 10th
 
 ![Headstone Image](headshot.png){: height="30%" width="30%"} ![Headstone Image](IMG_8283.jpg){: height="30%" width="30%"}
 
