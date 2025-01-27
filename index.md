@@ -10,7 +10,7 @@ You should comment out all portions of your portfolio that you have not complete
 ![Headstone Image](headshot.png){: height="30%" width="30%"} ![Headstone Image](IMG_8283.jpg){: height="30%" width="30%"}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/snJPvgfQrjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+ 
   
 # Final Milestone
 
